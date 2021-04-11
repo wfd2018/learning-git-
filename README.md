@@ -1,3 +1,3 @@
 # learning-git-
 learning-git 
-this repo is from amigoscode  
+this repo is from Amigoscode  
